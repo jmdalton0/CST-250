@@ -1,0 +1,17 @@
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.AssemblyReference.cache
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.StopWatch.resources
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.GenerateResource.cache
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.AssemblyInfoInputs.cache
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.AssemblyInfo.cs
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\bin\Debug\net6.0-windows\StopWatch.exe
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\bin\Debug\net6.0-windows\StopWatch.deps.json
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\bin\Debug\net6.0-windows\StopWatch.runtimeconfig.json
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\bin\Debug\net6.0-windows\StopWatch.dll
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\bin\Debug\net6.0-windows\StopWatch.pdb
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.dll
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\refint\StopWatch.dll
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.pdb
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\StopWatch.genruntimeconfig.cache
+C:\Users\jmdal\Projects\CST250\topic5\StopWatch\obj\Debug\net6.0-windows\ref\StopWatch.dll

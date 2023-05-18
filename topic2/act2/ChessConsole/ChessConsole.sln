@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessConsole", "ChessConsole.csproj", "{2A3E05B3-14A5-4ACE-8814-92FFCA61248A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessModel", "..\ChessModel\ChessModel.csproj", "{8497291B-5667-4EF7-95A5-57F0CC18A94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGUI", "..\ChessGUI\ChessGUI.csproj", "{FBC76F66-9E21-4F7E-8059-A5A4BB5076D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3E05B3-14A5-4ACE-8814-92FFCA61248A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3E05B3-14A5-4ACE-8814-92FFCA61248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3E05B3-14A5-4ACE-8814-92FFCA61248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3E05B3-14A5-4ACE-8814-92FFCA61248A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8497291B-5667-4EF7-95A5-57F0CC18A94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8497291B-5667-4EF7-95A5-57F0CC18A94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8497291B-5667-4EF7-95A5-57F0CC18A94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8497291B-5667-4EF7-95A5-57F0CC18A94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC76F66-9E21-4F7E-8059-A5A4BB5076D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC76F66-9E21-4F7E-8059-A5A4BB5076D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC76F66-9E21-4F7E-8059-A5A4BB5076D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC76F66-9E21-4F7E-8059-A5A4BB5076D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2972894-A3CB-471C-9E9B-BD6BCA25DA08}
+	EndGlobalSection
+EndGlobal

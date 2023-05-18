@@ -1,0 +1,4 @@
+John|Lennon|Guitar
+Paul|McCartney|Bass
+Ringo|Starr|Drums
+Robert|Plant|Vocals

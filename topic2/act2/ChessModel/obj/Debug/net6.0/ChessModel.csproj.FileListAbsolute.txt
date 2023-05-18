@@ -1,0 +1,12 @@
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\bin\Debug\net6.0\ChessModel.deps.json
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\bin\Debug\net6.0\ChessModel.dll
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\bin\Debug\net6.0\ChessModel.pdb
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ChessModel.csproj.AssemblyReference.cache
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ChessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ChessModel.AssemblyInfoInputs.cache
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ChessModel.AssemblyInfo.cs
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ChessModel.csproj.CoreCompileInputs.cache
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ChessModel.dll
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\refint\ChessModel.dll
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ChessModel.pdb
+C:\Users\jmdal\Projects\CST250\topic2\ChessModel\obj\Debug\net6.0\ref\ChessModel.dll

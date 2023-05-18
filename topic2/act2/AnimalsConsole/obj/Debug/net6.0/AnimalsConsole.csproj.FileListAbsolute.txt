@@ -1,0 +1,15 @@
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\bin\Debug\net6.0\AnimalsConsole.exe
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\bin\Debug\net6.0\AnimalsConsole.deps.json
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\bin\Debug\net6.0\AnimalsConsole.runtimeconfig.json
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\bin\Debug\net6.0\AnimalsConsole.dll
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\bin\Debug\net6.0\AnimalsConsole.pdb
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.csproj.AssemblyReference.cache
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.AssemblyInfoInputs.cache
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.AssemblyInfo.cs
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.csproj.CoreCompileInputs.cache
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.dll
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\refint\AnimalsConsole.dll
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.pdb
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\AnimalsConsole.genruntimeconfig.cache
+C:\Users\jmdal\Projects\CST250\topic2\act2\AnimalsConsole\obj\Debug\net6.0\ref\AnimalsConsole.dll

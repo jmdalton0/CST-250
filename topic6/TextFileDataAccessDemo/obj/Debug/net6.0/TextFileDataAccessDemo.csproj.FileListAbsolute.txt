@@ -1,0 +1,15 @@
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\bin\Debug\net6.0\TextFileDataAccessDemo.exe
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\bin\Debug\net6.0\TextFileDataAccessDemo.deps.json
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\bin\Debug\net6.0\TextFileDataAccessDemo.runtimeconfig.json
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\bin\Debug\net6.0\TextFileDataAccessDemo.dll
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\bin\Debug\net6.0\TextFileDataAccessDemo.pdb
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.csproj.AssemblyReference.cache
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.AssemblyInfoInputs.cache
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.AssemblyInfo.cs
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.csproj.CoreCompileInputs.cache
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.dll
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\refint\TextFileDataAccessDemo.dll
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.pdb
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\TextFileDataAccessDemo.genruntimeconfig.cache
+C:\Users\jmdal\Projects\CST250\topic6\TextFileDataAccessDemo\obj\Debug\net6.0\ref\TextFileDataAccessDemo.dll

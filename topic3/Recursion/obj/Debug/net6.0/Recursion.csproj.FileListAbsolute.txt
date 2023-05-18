@@ -1,0 +1,15 @@
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\bin\Debug\net6.0\Recursion.exe
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\bin\Debug\net6.0\Recursion.deps.json
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\bin\Debug\net6.0\Recursion.dll
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.dll
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.pdb
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+C:\Users\jmdal\Projects\CST250\topic3\Recursion\obj\Debug\net6.0\ref\Recursion.dll
